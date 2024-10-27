@@ -1,5 +1,4 @@
-# Keynote for: 
-
+# Keynote for: "Deep Credit Risk — Machine Learning in Python" by Daniel Roesch
 
 # Key variables include:
 - id: borrower id
