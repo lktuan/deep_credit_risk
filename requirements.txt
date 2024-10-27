@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+matplotlib
+tabulate
+joblib
+pickle5
+scikit-learn
+statsmodels
+Ipython
+pydot
+graphviz
+pymc3
+lifelines
+lightgbm

@@ -1,5 +1,7 @@
 # Keynote for: "Deep Credit Risk — Machine Learning in Python" by Daniel Roesch
 
+Instead of Anaconda, I use Jupyter Notebook in VS Code during the learning, create Python virtual environment (`python -m venv .venv`), then install all dependencies (` pip install -r requirements.txt`) then you should able to run all code blocks.
+
 # Key variables include:
 - id: borrower id
 - time: time stamp of observation
