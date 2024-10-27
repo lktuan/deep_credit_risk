@@ -73,6 +73,7 @@ import os
 # Get the directory where dcr.py is located
 module_dir = os.path.dirname(os.path.abspath(__file__))
 csv_path = os.path.join(module_dir, 'dcr.csv')
+data = pd.read_csv(csv_path)
 
 import warnings; warnings.simplefilter('ignore')
 

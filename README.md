@@ -1,6 +1,6 @@
 # Keynote for: "Deep Credit Risk — Machine Learning in Python" by Daniel Roesch and Harald Scheule
 
-My note and coding along with this book
+My note and coding along with this book. Follow the below steps to run codes:
 
 # Setup
 
