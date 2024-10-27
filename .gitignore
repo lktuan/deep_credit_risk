@@ -1,3 +1,6 @@
+# exclude data files that can be download from the book's website
+misc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
