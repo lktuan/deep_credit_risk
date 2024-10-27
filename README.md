@@ -2,15 +2,13 @@
 
 My note and coding along with this book. Follow the below steps to run codes:
 
-# Setup
-
 ## 1 Create and activate environment
 
 ```bash
 # Create virtual environment
 python -m venv .venv
 
-# Activate it (Windows)
+# Activate it (Windows) - it depends on your OS
 .venv\Scripts\activate
 ```
 
@@ -27,7 +25,11 @@ python -m ipykernel install --user --name=dcr_env
 ## 3 Install packages
 
 ```bash
+# install the dcr
 pip install -e .
 
+# install other dependencies
 pip install -r .\requirements.txt
 ```
+
+When running the notebook, remember to choose `dcr_env` under the Jupyter kernel.

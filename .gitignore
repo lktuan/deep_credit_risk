@@ -1,6 +1,5 @@
 # exclude data files that can be download from the book's website
 misc
-dcr
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
