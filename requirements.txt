@@ -12,4 +12,3 @@ graphviz
 pymc3
 lifelines
 lightgbm
-dcr
