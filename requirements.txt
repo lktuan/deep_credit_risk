@@ -4,7 +4,6 @@ scipy
 matplotlib
 tabulate
 joblib
-pickle5
 scikit-learn
 statsmodels
 Ipython
@@ -13,3 +12,4 @@ graphviz
 pymc3
 lifelines
 lightgbm
+dcr
