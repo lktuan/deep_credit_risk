@@ -34,7 +34,7 @@ pip install -e .
 pip install -r .\requirements.txt
 ```
 
-When running the notebook, remember to choose "**DCR Environment**" under available kernel.
+When running the notebook, remember to choose "**DCR Environment**" under available kernels.
 
 ## Note
 
