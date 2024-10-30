@@ -1,6 +1,6 @@
 pandas
 numpy
-scipy
+scipy==1.14.1
 matplotlib
 tabulate
 joblib
@@ -9,6 +9,7 @@ statsmodels
 Ipython
 pydot
 graphviz
-pymc3
+pymc==5.17.0
+theano==1.0.5
 lifelines
 lightgbm
