@@ -9,6 +9,7 @@ statsmodels
 Ipython
 pydot
 graphviz
+arviz
 pymc==5.17.0
 theano==1.0.5
 lifelines
